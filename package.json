@@ -11,12 +11,14 @@
   "dependencies": {
     "@hookform/resolvers": "^3.4.2",
     "@nextui-org/react": "^2.4.0",
+    "cuuid": "^0.3.0",
     "framer-motion": "^11.2.6",
     "lucide-react": "^0.379.0",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
     "react-hook-form": "^7.51.5",
+    "uuid": "^9.0.1",
     "vaul": "^0.9.1",
     "zod": "^3.23.8",
     "zustand": "^4.5.2"
@@ -25,6 +27,7 @@
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "@types/uuid": "^9.0.8",
     "eslint": "^8",
     "eslint-config-next": "14.2.3",
     "postcss": "^8",
